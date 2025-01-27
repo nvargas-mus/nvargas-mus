@@ -1,16 +1,16 @@
 ## Hola, soy  Nicole Vargas 👩‍💻
 
-🎨 **Frontend Developer** | 📍 **Based in Chile** | 🌍 **Open to remote opportunities**
+🎨 **Frontend Developer** | 📍 **Santiago, Chile** | 🌍 **Abierta a oportunidades remotas**
 
 ---
 
-✨ Recién egresada del Bootcamp de Desarrollo Frontend en la **Universidad de Chile**. Con formación en **Técnica en Informática** y especialización en **UX/UI**, mi objetivo es desarrollar aplicaciones web intuitivas y visualmente atractivas que brinden una excelente experiencia al usuario.
+✨ Recién egresada del Bootcamp de Desarrollo Frontend en la **Universidad de Chile**. Con formación en **Técnico en Informática** y especialización en **UX/UI**, mi objetivo es desarrollar aplicaciones web intuitivas y visualmente atractivas que brinden una excelente experiencia al usuario.
 
 🔍 **Curiosa y apasionada por la tecnología**, estoy siempre aprendiendo y buscando colaborar en proyectos innovadores. ¡Echa un vistazo a mis proyectos y conectemos!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías, herramientas y frameworks: 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
@@ -23,13 +23,17 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Algunos proyectos: 
 
-- [**Project Name 1**](#)  
-  _Breve descripción de tu proyecto principal y qué tecnologías usaste._
+### [🌱 Cotiledon TI](https://github.com/Cotiledon-TI)
+Un **ecommerce colaborativo** desarrollado junto con la célula **Cotiledon TI**.  
+🔹 Tecnologías utilizadas: **React**, **TypeScript**, **HTML5**, **CSS3**, **Git**, **Bootstrap**.  
+🔹 Descripción: Este proyecto implementa una plataforma de compras en línea, con funcionalidades como un carrito, gestión de usuarios y visualización de productos. Diseñado con una experiencia de usuario intuitiva y responsiva.
 
-- [**Project Name 2**](#)  
-  _Otro proyecto destacado y por qué es interesante._
+### [🎮 Snake Game](https://github.com/nvargas-mus/Snake)
+Un juego clásico de **Snake**, desarrollado mientras aprendía **TypeScript**.  
+🔹 Tecnologías utilizadas: **TypeScript**, **HTML5**, **CSS3**.  
+🔹 Descripción: Este proyecto es una implementación moderna del clásico juego Snake, con controles intuitivos, diseño minimalista y lógica personalizada. Fue una experiencia enriquecedora para consolidar conceptos como manipulación del DOM y diseño responsivo.
 
 > 🛠️ *Próximamente: más proyectos en camino...*
 
