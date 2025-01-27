@@ -45,8 +45,3 @@ Un juego clásico de **Snake**, desarrollado mientras aprendía **TypeScript**.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/n-vargas/)
 
 ---
-
-💡 *"El aprendizaje continuo es el camino hacia la innovación."*  
-🎶 *De la música al código, construyendo experiencias que conectan.*
-
-
